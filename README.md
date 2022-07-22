@@ -10,7 +10,7 @@
 <img src="">
 
 <h1 align='center'>
-    <a href="https://react-forulario-multi-etapas.vercel.app/">Clique aqui para Testar o app</a>
+    <a href="https://react-projeto-jogo-rpg.vercel.app/">Clique aqui para Testar o app</a>
 </h1>
 
 # Tecnologias
@@ -28,7 +28,7 @@ Para clonar e rodar essa aplicação você precisa ter o [Git](https://git-scm.c
 
 ```bash
 # Clonar o repositorio
-$ git Clone https://github.com/willianduartte/React-Forulario-Multi-etapas
+$ git Clone https://github.com/willianduartte/React-Projeto-RPG
 
 # com o repositorio selecionado no seu CDM rode
 $ npm install
