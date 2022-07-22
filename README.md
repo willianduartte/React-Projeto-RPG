@@ -7,7 +7,9 @@
     <a href="#como-usar">Como usar</a>
 </p>
 
-<img src="">
+<div align='center'>
+    <img src="./RPG.gif">
+</div>
 
 <h1 align='center'>
     <a href="https://react-projeto-jogo-rpg.vercel.app/">Clique aqui para Testar o app</a>
